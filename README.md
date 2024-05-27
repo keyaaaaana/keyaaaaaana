@@ -1,3 +1,6 @@
 # About me
-My personal repository
+## My personal repository
+
+### Student
+Bachelor of 
 
