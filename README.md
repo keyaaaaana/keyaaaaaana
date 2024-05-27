@@ -1,2 +1,3 @@
-# keyaaaaaana
-My personal repositpty
+# About me
+My personal repository
+
